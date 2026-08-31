@@ -1,4 +1,4 @@
-# Ferris Bueller's Day Off — School Systems Assistant
+# Ferris Bueller's Day Off — Day Planner
 
 ## Description
 
